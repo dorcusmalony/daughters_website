@@ -1,0 +1,61 @@
+/* Custom styles for the Nile Daughters website */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+.jumbotron {
+    background-color: #f8f9fa;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.page-title {
+    font-size: 1.5rem;
+    color: black;
+    text-align: center;
+}
+.footer-content {
+    background-color: rgb(47, 47, 248);
+    color: white;
+    padding: 20px 20px;
+}
+.footer-content a {
+    color: yellow;
+}
+.feature-icon {
+    width: 3em;
+    height: 3em;
+    background-color: yellow;
+    color: black;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+.feature {
+    background-color: rgb(65, 65, 241);
+    border: 8px solid #ddd;
+    border-radius: 0.5em;
+    padding: 1em;
+    text-align: center;
+    color: white;
+}
+
+.col-md-4{
+    color: blue;
+}
+/* Custom styles for the navbar text */
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: blue !important; /* Set text color to yellow */
+    font-size: 1.5rem; /* Set font size to 3rem */
+    font-family: "Times New Roman", Times, serif; /* Set font to Times New Roman */
+}
+
+.navbar .nav-link:hover {
+    color: yellow !important; /* Change text color to white on hover for better visibility */
+}
+
