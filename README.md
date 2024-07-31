@@ -34,7 +34,7 @@ Guides to writing cover letters, resumes, and videos.
 It includes forums and discussion groups where users can share experiences, give advice, and support each other. This feature has not yet been implemented due to a lack of knowledge, but I will add it in time.
 
 **User Management**:
-Manages user registration, login, and profile information.
+Manages user registration, login, and profile information, which has not yet been implemented.
 
 **Technologies Used**
 
@@ -43,6 +43,7 @@ Frontend: HTML, CSS, JavaScript
 Database: PostgreSQL
 Environment Management: virtualenv
 Version Control: Git
+Bootstrap
 **Prerequisites**
 
 Before setting up the project, I make sure I have the following were installed:
@@ -75,7 +76,7 @@ I Applied migrations to set up the database schema, which I will still look into
 
 **Running the Server**
 **Start the Development Server**:
-Start the development server to run the application.
+Started the development server to run the application.
 
 **Accessing the Platform**
 Open Web Browser: Open your web browser and go to the specified URL to access the Nile Daughters Education Platform.
@@ -90,7 +91,7 @@ I did not have enough time to learn Django well enough to implement all the func
 As a new tool for me, learning Django and its concepts was challenging and time-consuming.
 
 **Server Issues**:
-I faced issues running the server smoothly, which I am still working on resolving.
+I faced issues running the server smoothly, which I am still resolving.
 Despite these challenges, I am committed to continuing my learning journey and improving the platform to provide a valuable resource for young women.
 
 **Contributing**
