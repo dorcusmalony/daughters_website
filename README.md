@@ -26,12 +26,16 @@ The Nile Daughters Education Platform is a web-based application that empowers y
 
 **Mentorship**:
 Motivational videos from strong women worldwide will be done to mentor and encourage them.
+
 **Educational Resources**:
 Guides to writing cover letters, resumes, and videos.
+
 **Community Support**: 
 It includes forums and discussion groups where users can share experiences, give advice, and support each other. This feature has not yet been implemented due to a lack of knowledge, but I will add it in time.
+
 **User Management**:
 Manages user registration, login, and profile information.
+
 **Technologies Used**
 
 Backend: Django (Python)
@@ -70,7 +74,8 @@ I created a new PostgreSQL database with the name specified in the .env file.
 I Applied migrations to set up the database schema, which I will still look into, though it did not work.
 
 **Running the Server**
-**Start the Development Server**: Start the development server to run the application.
+**Start the Development Server**:
+Start the development server to run the application.
 
 **Accessing the Platform**
 Open Web Browser: Open your web browser and go to the specified URL to access the Nile Daughters Education Platform.
@@ -89,4 +94,5 @@ I faced issues running the server smoothly, which I am still working on resolvin
 Despite these challenges, I am committed to continuing my learning journey and improving the platform to provide a valuable resource for young women.
 
 **Contributing**
+
 Please fork the repository and submit a pull request to contribute to this project. For major changes, please open an issue first to discuss what you want to change or add.
